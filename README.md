@@ -1,8 +1,9 @@
                                  Hey there! I'm Dulsara Weerasinghe
                  
             
-          👨🏻‍💻About Me
-                 
+        
+        👨🏻‍💻About Me
+        
 - 🎓 I’m currently studying Information Technology at Sri Lanka Institute of Information Technology(SLIIT).               
 - 👀 I’m interested in learning new twchnologies and languages.
 - 💡 I can introduced myself as a person who is a technological enthusiast and a passionate communicator looking for solutions to real life problems through teamwork, continuous learning, and knowledge sharing.
