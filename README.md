@@ -12,8 +12,8 @@
 
            Languages
                                  
-     JavaScript          Java              Bootstrap          Laravel            React     
-     Html                CSS                PHP                jQuery            C               C++ 
+     JavaScript       /   Java       /       Bootstrap     /     Laravel        /    React     
+     Html          /      CSS        /        PHP             /   jQuery      /      C       /        C++ 
     
         Tools
     Visual Studio Code
