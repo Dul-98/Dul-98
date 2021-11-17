@@ -16,9 +16,9 @@
      Html          /      CSS        /        PHP             /   jQuery      /      C       /        C++ 
     
         Tools
-    Visual Studio Code
-    Eclipse IDE
-    Android Studio
+    Visual Studio Code/
+    Eclipse IDE/
+    Android Studio/
     IntelliJ IDEA
     
     
