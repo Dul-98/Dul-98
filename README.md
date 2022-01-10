@@ -13,7 +13,7 @@
 
            Languages
                                  
-     JavaScript       /   Java       /       Bootstrap     /     Laravel        /    React     
+     JavaScript       /   Java       /      Spring Boot    /     Laravel        /    React     
      Html          /      CSS        /        PHP             /   jQuery      /      C       /        C++ 
     
         Tools
